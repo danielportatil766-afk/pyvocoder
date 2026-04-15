@@ -33,7 +33,7 @@ A vocoder takes two audio signals — a **modulator** (usually a voice) and a **
 
 ### Step 1 — Run the installer
 
-Download `PyVocoder-Setup.exe` from the [Releases page](../../releases/latest) and run it. It will install PyVocoder and create a Start Menu shortcut.
+Download `PyVocoder.exe` from the [Releases page](../../releases/latest) and run it. It will install PyVocoder and create a Start Menu shortcut.
 
 ### Step 2 — Install ffmpeg (required)
 
